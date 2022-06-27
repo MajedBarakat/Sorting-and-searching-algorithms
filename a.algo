@@ -1,0 +1,13 @@
+PROCEDURE aa(VAR xp, VAR yp:INTEGER)
+VAR
+    tmp: INTEGER;
+BEGIN
+    tmp:=xp;
+    xp:=yp;
+END
+PROCEDURE ad(VAR tab :ARRAY_OF INTEGER;)
+VAR
+    set_declarations
+BEGIN
+    set_instructions
+END
